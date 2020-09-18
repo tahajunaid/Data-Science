@@ -1,5 +1,3 @@
-# Taha_Internship-Kanishka-Khandelwal-
+# This repository holds some of my work in Data Science
 
-Task and Bonus Task Completed.
 
-Please find the file "Taha_Internship(Kanishka Khandelwal).ipynb"
